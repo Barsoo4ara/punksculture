@@ -1,0 +1,88 @@
+header{
+    background-color: rgb(231, 211, 57);
+    height: 150px;
+    color:rgb(211, 13, 161);
+    font-size: 20px;    
+    background-image: none;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size:70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: rgb(116, 107, 34) 2px 5px 5px;
+    padding-top: 60px;
+}
+.left{
+    
+    float: left;
+    width: 40%;
+    height:1094px;
+    padding: 60px;
+    }
+    .right{
+        float: left;
+        width: 50%;
+        height: 80%;
+        justify-content: center;
+        padding-bottom: 50px;
+        padding-left: 27px;
+       
+    }
+    h1{
+        text-align: center;
+        font-size: larger;
+        color:rgb(211, 13, 161);
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    h2{
+        text-align: center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style:italic;
+    }
+    main{
+        background-color: rgb(211, 13, 161); 
+        height: 300px;
+        color:rgb(255, 255, 255);
+        font-size:20px;
+        height: 100%;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+        justify-content: center;
+        display: flex;
+    }
+    footer{
+        background-color: rgb(0, 0, 0);
+        height: 500px;
+        color:rgb(255, 255, 255);
+        text-align: center;
+        font-size: 40px;
+        color:rgb(255, 255, 255);
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+        background-color: black;
+        display: flex;
+    }
+    .container{
+        background-color: blueviolet;
+        width: 80%;
+        height: 100%;
+        background: linear-gradient( to top, rgb(0, 0, 0),rgb(231, 211, 57) );
+    }
+    
+    .f_left{
+        width: 30%;
+        float: left;
+        text-align: center;
+        padding: 20px;
+    }
+    .f_left img{
+        padding-top: 20px;
+    }
+    .f_right{
+        width: 50%;
+        float: right;
+    }
+    .f_right{
+        padding-left: 50px;
+    }
